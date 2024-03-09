@@ -399,35 +399,35 @@ export const mockBarData = [
 
 export const mockPieData = [
   {
-    id: "hack",
-    label: "hack",
-    value: 239,
-    color: "hsl(104, 70%, 50%)",
+    "id": "php",
+    "label": "php",
+    "value": 256,
+    "color": "hsl(228, 70%, 50%)"
   },
   {
-    id: "make",
-    label: "make",
-    value: 170,
-    color: "hsl(162, 70%, 50%)",
+    "id": "haskell",
+    "label": "haskell",
+    "value": 363,
+    "color": "hsl(315, 70%, 50%)"
   },
   {
-    id: "go",
-    label: "go",
-    value: 322,
-    color: "hsl(291, 70%, 50%)",
+    "id": "go",
+    "label": "go",
+    "value": 486,
+    "color": "hsl(255, 70%, 50%)"
   },
   {
-    id: "lisp",
-    label: "lisp",
-    value: 503,
-    color: "hsl(229, 70%, 50%)",
+    "id": "java",
+    "label": "java",
+    "value": 31,
+    "color": "hsl(333, 70%, 50%)"
   },
   {
-    id: "scala",
-    label: "scala",
-    value: 584,
-    color: "hsl(344, 70%, 50%)",
-  },
+    "id": "rust",
+    "label": "rust",
+    "value": 464,
+    "color": "hsl(17, 70%, 50%)"
+  }
 ];
 
 export const mockLineData = [
